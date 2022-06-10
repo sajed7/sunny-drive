@@ -12,4 +12,15 @@ console.log('hi');
 
 ```
 
+# This is the checklist
+- [ ]  item 1.
+- [ ]  item 2.
+- [x] final.
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![A Funny Image](https://octodex.github.com/images/yaktocat.png)
+
+
